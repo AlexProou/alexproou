@@ -8,7 +8,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=)
 ![VScode](https://img.shields.io/badge/-VScode-black?style=for-the-badge&logo=VisualStudio&logoColor=blue)
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React&logoColor=)
-![C](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=C&logoColor=)
+![C#](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=C#&logoColor=)
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python&logoColor=)
 
 https://aleen42.github.io/badges/src/photoshop.svg
