@@ -10,7 +10,7 @@
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React&logoColor=)
 ![C#](https://img.shields.io/badge/-CSharp-black?style=for-the-badge&logo=CSharp&logoColor=)
 ![Php](https://img.shields.io/badge/-Php-black?style=for-the-badge&logo=Php&logoColor=)
-![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python&logoColor=)
 
-https://aleen42.github.io/badges/src/photoshop.svg
+
+
 
