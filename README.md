@@ -8,4 +8,5 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=)
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python&logoColor=)
 ![VScode](https://img.shields.io/badge/-VScode-black?style=for-the-badge&logo=VisualStudio&logoColor=blue)
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React&logoColor=)
 
