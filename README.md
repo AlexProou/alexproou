@@ -8,7 +8,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=)
 ![VScode](https://img.shields.io/badge/-VScode-black?style=for-the-badge&logo=VisualStudio&logoColor=blue)
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React&logoColor=)
-![C-sharp](https://img.shields.io/badge/-C-sharp-black?style=for-the-badge&logo=C#&logoColor=)
+![C-sharp](https://img.shields.io/badge/-C#-black?style=for-the-badge&logo=C#&logoColor=)
 ![Php](https://img.shields.io/badge/-Php-black?style=for-the-badge&logo=Php&logoColor=)
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python&logoColor=)
 
