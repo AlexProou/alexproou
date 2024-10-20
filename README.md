@@ -1,6 +1,7 @@
 # Hello! 👋
 ## My name is Alexander 
-## I am a Javascript and C++ developer
+###### FullStack
+## Javascript and C++ developer
 #
 ###
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=)
